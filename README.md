@@ -1,4 +1,4 @@
-# Login-Panel-Mock-Up-Implementation-BMI-Ratio-Script Quiz at Team Up Server
+# Quiz Login Panel Mock Up Implementation & BMI Ratio Script at Team Up Server
 
 ##kali ini Team UP memiliki 2 tugas :
 Tugas 1
